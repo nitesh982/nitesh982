@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nitesh982
 - 👀 I’m interested in Networks and Cyber Security
-- 🌱 I’m currently learning Web Development with Security
+- 🌱 I’m currently working as a full stack Developer in Mindtree. 
 - 💞️ I’m looking to collaborate on learning about Cyber Security.
 - 📫 Reach me at niteshsah982@gmail.com
 <!---
