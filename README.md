@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nitesh982
+- 👋 Hi, I’m Nitesh
 - 👀 I’m interested in Networks and Cyber Security
 - 🌱 I’m currently working as a full stack Developer in Mindtree. 
      I can make a significant difference in your web project. Always open to opportunities. 
